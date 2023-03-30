@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:22:38.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JB0-BMMax_AC5vGczuPi" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:25:26.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JQpVUeIWhZKBT7C5s4zG" version="20.8.13" type="github">
   <diagram name="Page-1" id="RfADy4PEL5rUy1yHIFoR">
     <mxGraphModel dx="64876" dy="-8665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocy_OElQzH9pkerZrW97-150" value="SonarQube" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocy_OElQzH9pkerZrW97-150" value="SonarQube/&lt;br&gt;Selenium" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-63223" y="9715" width="94" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ocy_OElQzH9pkerZrW97-151" value="" style="html=1;labelBackgroundColor=#ffffff;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;rounded=0;exitX=0.407;exitY=0.287;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
